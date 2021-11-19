@@ -1,9 +1,9 @@
 # Abstract Glass Blob CSS
 
 ## General Information
-**Preview** [open](https://jorit.vasconezgerlach.de/host/abstract-glass-blob-css-git/)
+**Preview** [open](https://jorit.vasconezgerlach.de/host/abstract-glass-blob-css-git/)\
 **Licence** Free to copy, edit and share\
-**Languages** CSS, HTML\
+**Languages** CSS, HTML
 
 ## About Creator
 Jorit Vásconez Gerlach\
